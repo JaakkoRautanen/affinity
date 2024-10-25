@@ -10,3 +10,13 @@ Simple. I wanted modern, crisp, pixel-perfect, printable, manufacturer independe
 ## Symbol overview
 ![alt text](https://github.com/ecceman/affinity/blob/master/affinity_index.png)
 
+
+## TODO
+
+Create script which modifies all svg files like this:
+ - adds css style and classes
+ - removes styles not needed
+ - creates drawio library
+ - add `editableCssRules=.*;`
+ - resizes elements to 80
+ - adds names to elements
