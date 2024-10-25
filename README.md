@@ -14,9 +14,11 @@ Simple. I wanted modern, crisp, pixel-perfect, printable, manufacturer independe
 ## TODO
 
 Create script which modifies all svg files like this:
- - adds css style and classes
- - removes styles not needed
+ - adds css style and classes [done]
+ - removes styles not needed [done]
  - creates drawio library
  - add `editableCssRules=.*;`
  - resizes elements to 80
  - adds names to elements
+
+Update readme.md
